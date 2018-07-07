@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Album",
+    "icon": "icon.png",
+    "version": "0.0.1",
+    "sdkVersion": "26.0.0",
+    "ios": {
+      "bundleIdentifier": "io.github.chandilsachin"
+    },
+    "android": {
+      "package": "io.github.chandilsachin"
+    }
+  }
+}
